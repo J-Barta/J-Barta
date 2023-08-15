@@ -1,4 +1,4 @@
-- Programmer, CAD Captain, and Driver for FRC 5907
+- Programmer, CAD Captain, and Driver
 - I just wanna win FRC
 
 
