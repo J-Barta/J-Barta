@@ -1,4 +1,4 @@
-- Programmer, CAD Captain, and Driver
+- Programmer, Mechanical/Electrical Captain, and Driver
 - I just wanna win FRC
 
 
